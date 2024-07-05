@@ -1,4 +1,6 @@
 # Sentiment Analysis Tool
+![Uploading Screenshot 2024-07-05 114006.png…]()
+
 
 This project is a web application built using Streamlit that performs sentiment analysis on user-inputted text. The app uses pre-trained machine learning models to predict whether the sentiment of the input text is positive or negative.
 
