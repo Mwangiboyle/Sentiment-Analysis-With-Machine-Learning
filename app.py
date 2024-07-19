@@ -6,8 +6,8 @@ import joblib
 import sklearn
 
 # Load your models
-svm = joblib.load('models\svm_pipeline.pkl')
-multinomial = joblib.load('models\multinomial_pipeline.pkl')
+svm = joblib.load('models/multinomial_pipeline.pkl')
+multinomial = joblib.load('models/multinomial_pipeline.pkl')
 
 # App title and description
 st.title("Sentiment Analysis Tool")
